@@ -1,7 +1,7 @@
 # workout-tracker
 
 ## Description
-View, create, and track daily workouts! The user can add exercises to a previous workout plan, add new exercises to a new workout plan, and the user is able to view the combined weight of multiple exercises on the dashboard stats page.
+View, create, and track daily workouts! The user can add exercises to a previous workout plan, add new exercises to a new workout plan, and view the combined weight of multiple exercises on the dashboard stats page.
 
 ## Table of Contents
 
@@ -27,7 +27,7 @@ https://quiet-waters-20446.herokuapp.com/?id=5fb80d45d8e96f0017fecb0a
 
 ## Demo
 
-
+https://drive.google.com/file/d/1_PqRqHr9pvEqp67WMoRuZ-MPPWPg0cCp/view
 
 ## Contributors
 
